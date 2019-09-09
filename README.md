@@ -2,4 +2,4 @@
 My repo for data science course
 
 
-Course 1 :
+Course 1 : What is Data Science
