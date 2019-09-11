@@ -2,4 +2,5 @@
 My repo for data science course
 
 
-Course 1 : What is Data Science
+Course 1  : What is Data Science
+Course 2  : Open Source Tool for Data Science
