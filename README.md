@@ -7,5 +7,5 @@ Course 3  : Data Science Methodology
 
 
 
-NOTE : -Upload in batch 
-       -Ensure jupityer notebook is working
+NOTE : - Upload in batch 
+       - Ensure jupityer notebook is working
