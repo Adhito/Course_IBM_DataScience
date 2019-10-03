@@ -5,7 +5,8 @@ Course 1  : What is Data Science </br>
 Course 2  : Open Source Tool for Data Science </br>
 Course 3  : Data Science Methodology
 
-
+ </br>
+ </br>
 
 NOTE TO SELF: 
 - Upload in batch 
